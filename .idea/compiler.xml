@@ -2,7 +2,7 @@
 <project version="4">
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="desafio-dio-POO" options="--add-modules java.base" />
+      <module name="desafio-poo-dio" options="--add-modules java.base" />
     </option>
   </component>
 </project>
